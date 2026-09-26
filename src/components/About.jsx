@@ -13,7 +13,7 @@ const About = () => {
     {
       icon: <Database size={32} />,
       title: 'Backend Development',
-      description: 'Node.js, Python, PostgreSQL, MongoDB',
+      description: ' Python, PostgreSQL, MySQL',
       color: 'bg-green-100 text-green-600'
     },
     {
@@ -135,7 +135,7 @@ const About = () => {
             Tech <span className="text-primary-600">Stack</span>
           </h3>
           <div className="flex flex-wrap justify-center gap-3 max-w-3xl mx-auto">
-            {['JavaScript', 'Python', 'React', 'Node.js', 'TensorFlow', 'PyTorch', 'Scikit-learn', 'Keras', 'TypeScript', 'Next.js', 'MongoDB', 'PostgreSQL'].map((tech) => (
+            {['JavaScript', 'Python', 'React', 'Vite', 'TensorFlow', 'PyTorch', 'Scikit-learn', 'Keras', 'TypeScript', 'Next.js', 'PostgreSQL'].map((tech) => (
               <span
                 key={tech}
                 className="px-4 py-2 bg-white text-gray-700 rounded-full text-sm font-medium shadow-sm hover:shadow-md transition-all duration-200 border border-gray-100 hover:border-primary-100"

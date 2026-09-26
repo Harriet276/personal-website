@@ -202,13 +202,13 @@ const Contact = () => {
     {
       icon: <Phone size={24} />,
       title: 'Phone',
-      value: '+971 55 156 4673',
-      link: 'tel:+971551564673'
+      value: '+447849093669',
+      link: 'tel:+447849093669'
     },
     {
       icon: <MapPin size={24} />,
       title: 'Location',
-      value: 'Dubai, UAE'
+      value: 'Birmingham, UK'
     }
   ]
 

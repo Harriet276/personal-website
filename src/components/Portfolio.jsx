@@ -42,7 +42,7 @@ const Portfolio = () => {
       image: 'https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
       technologies: ['JavaScript', 'Tailwind CSS', 'Vite','HTML'],
       // liveUrl: '#',
-      // githubUrl: '#',
+       githubUrl: 'https://github.com/Harriet276/personal-website',
       featured: false
     }
   ])
